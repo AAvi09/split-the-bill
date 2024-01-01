@@ -1,2 +1,2 @@
 # split-the-bill
-react mini-app-project split the bill with your friend displays friends list can add new friend and can split the bill with your friend updates the UI to display how much you owe your friend or much money he owes after splitting the bill
+react app-project split the bill with your friend displays friends list created using form-handling , user can add new friend and  split the bill with their friend updates the UI to display how much you owe your friend or  how much money he owes you after splitting the bill .The App is created by smartly using the ability of UseState hook in react as many a times state is needed to lifted up in order to share the state in multiple components. 
